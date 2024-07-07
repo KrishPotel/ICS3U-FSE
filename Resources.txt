@@ -1,0 +1,10 @@
+referenced soucres comp sci fse
+adjacent node
+https://stackoverflow.com/questions/2035522/get-adjacent-elements-in-a-two-dimensional-array
+
+Tilemap placement
+https://www.youtube.com/watch?v=gE2gTCwLdFM
+
+Breadth-first search resources
+https://en.wikipedia.org/wiki/Breadth-first_search
+https://www.youtube.com/watch?v=HZ5YTanv5QE
